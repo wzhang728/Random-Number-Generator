@@ -1,1 +1,1 @@
-# Random-Number-Generator
+# Random quote generator that generates famous quotes from authors.
